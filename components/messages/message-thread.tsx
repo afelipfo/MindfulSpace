@@ -137,6 +137,7 @@ export function MessageThread({ userId, therapistId, therapistName, therapistAva
           <h3 className="font-semibold text-gray-900">{therapistName}</h3>
           <p className="text-sm text-gray-500">Licensed Therapist</p>
         </div>
+        </div>
         <Button
           variant="outline"
           size="sm"
